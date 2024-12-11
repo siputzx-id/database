@@ -1,5 +1,10 @@
 [
     {
+      "plate": "00",
+      "correct": "12",
+      "image": "https://raw.githubusercontent.com/siputzx-id/database/refs/heads/main/files/tebakwarna/Ishihara_00.jpg"
+    },
+    {
       "plate": "01",
       "correct": "74",
       "image": "https://raw.githubusercontent.com/siputzx-id/database/refs/heads/main/files/tebakwarna/Ishihara_01.jpg"
